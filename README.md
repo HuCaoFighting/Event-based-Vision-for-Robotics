@@ -1,9 +1,8 @@
 # Event-based-Autonomous-Driving
 Event-based neuromorphic vision for autonomous driving: a paradigm shift for bio-inspired visual sensing and perception
 
-# Awesome Visual-Transformer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Collect some Transformer with Computer-Vision (CV) papers. 
+Collect some papers about autonomous driving based on event cameras. 
 
 If you find some overlooked papers, please open issues or pull requests (recommended).
 
