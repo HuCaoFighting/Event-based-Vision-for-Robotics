@@ -2,18 +2,24 @@
 Event-based neuromorphic vision for autonomous driving: a paradigm shift for bio-inspired visual sensing and perception
 
 
-Collect some papers about autonomous driving based on event cameras. 
+Collect some papers about event-based autonomous driving. 
 
 If you find some overlooked papers, please open issues or pull requests (recommended).
 
 
 ## Papers
 
-### Transformer original paper
+### Survey paper
 
-- [Attention is All You Need](https://arxiv.org/abs/1706.03762) (NIPS 2017)
+- <a name="Gallego20tpami"></a>Gallego, G., Delbruck, T., Orchard, G., Bartolozzi, C., Taba, B., Censi, A., Leutenegger, S., Davison, A., Conradt, J., Daniilidis, K., Scaramuzza, D.,  
+**_[Event-based Vision: A Survey](http://rpg.ifi.uzh.ch/docs/EventVisionSurvey.pdf)_**,  
+IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2020.
+- <a name="Chen20msp"></a>Chen, G., Cao, H., Conradt, J., Tang, H., Rohrbein, F., Knoll, A.,  
+[Event-Based Neuromorphic Vision for Autonomous Driving: A Paradigm Shift for Bio-Inspired Visual Sensing and Perception](https://doi.org/10.1109/MSP.2020.2985815),  
+IEEE Signal Processing Magazine, 37(4):34-49, 2020.
 
-### Technical blog
+
+### Datasets
 
 - [Chinese Blog] 3W字长文带你轻松入门视觉transformer [[Link](https://zhuanlan.zhihu.com/p/308301901)]
 - [Chinese Blog] Vision Transformer 超详细解读 (原理分析+代码解读) [[Link](https://zhuanlan.zhihu.com/p/348593638)]
