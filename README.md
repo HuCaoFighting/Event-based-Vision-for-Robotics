@@ -1,4 +1,4 @@
-# Event-based-Autonomous-Driving
+# Awsome-Event-based-Vision-for-Autonomous-Driving
 Event-based neuromorphic vision for autonomous driving: a paradigm shift for bio-inspired visual sensing and perception
 
 
@@ -24,10 +24,6 @@ IEEE Signal Processing Magazine, 37(4):34-49, 2020.
 - [Chinese Blog] 3W字长文带你轻松入门视觉transformer [[Link](https://zhuanlan.zhihu.com/p/308301901)]
 - [Chinese Blog] Vision Transformer 超详细解读 (原理分析+代码解读) [[Link](https://zhuanlan.zhihu.com/p/348593638)]
 
-### Survey
-  - Transformers in Vision: A Survey [[paper](https://arxiv.org/abs/2101.01169)]   - 2021.02.22
-  - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]   - 2020.1.30
-  - A Survey of Transformers  [[paper](https://arxiv.org/abs/2106.04554)]   - 2020.6.09
 ### arXiv papers
 - Focal Self-attention for Local-Global Interactions in Vision Transformers [[paper](https://arxiv.org/abs/2107.00641)] [[code](https://github.com/microsoft/Focal-Transformer)]
 - Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers [[paper](https://arxiv.org/abs/2108.06932)] [[code](https://github.com/DengPingFan/Polyp-PVT)]
