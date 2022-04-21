@@ -2,7 +2,7 @@
 Event-based neuromorphic vision for autonomous driving: a paradigm shift for bio-inspired visual sensing and perception
 
 
-Collect some papers about event-based autonomous driving. 
+Collect some papers about event-based Autonomous Driving & Robotic-Grasping. 
 
 If you find some overlooked papers, please open issues or pull requests (recommended).
 
@@ -23,6 +23,17 @@ IEEE Signal Processing Magazine, 37(4):34-49, 2020.
 
 - [Chinese Blog] 3W字长文带你轻松入门视觉transformer [[Link](https://zhuanlan.zhihu.com/p/308301901)]
 - [Chinese Blog] Vision Transformer 超详细解读 (原理分析+代码解读) [[Link](https://zhuanlan.zhihu.com/p/348593638)]
+
+### Papers about Autonomous Driving
+- Focal Self-attention for Local-Global Interactions in Vision Transformers [[paper](https://arxiv.org/abs/2107.00641)] [[code](https://github.com/microsoft/Focal-Transformer)]
+- Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers [[paper](https://arxiv.org/abs/2108.06932)] [[code](https://github.com/DengPingFan/Polyp-PVT)]
+- Mobile-Former: Bridging MobileNet and Transformer [[paper](https://arxiv.org/abs/2108.05895)]
+
+### Papers about Robotic-Grasping
+- Focal Self-attention for Local-Global Interactions in Vision Transformers [[paper](https://arxiv.org/abs/2107.00641)] [[code](https://github.com/microsoft/Focal-Transformer)]
+- Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers [[paper](https://arxiv.org/abs/2108.06932)] [[code](https://github.com/DengPingFan/Polyp-PVT)]
+- Mobile-Former: Bridging MobileNet and Transformer [[paper](https://arxiv.org/abs/2108.05895)]
+
 
 ### arXiv papers
 - Focal Self-attention for Local-Global Interactions in Vision Transformers [[paper](https://arxiv.org/abs/2107.00641)] [[code](https://github.com/microsoft/Focal-Transformer)]
