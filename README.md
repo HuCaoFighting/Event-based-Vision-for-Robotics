@@ -1,4 +1,4 @@
-# Awsome-Event-based-Vision-for-Robotics (Autonomous-Driving & Robotic-Grasping)
+# Awsome-Event-based-Vision-for-Robots (Autonomous-Driving & Robotic-Grasping)
 Event-based neuromorphic vision for autonomous driving: a paradigm shift for bio-inspired visual sensing and perception
 
 
