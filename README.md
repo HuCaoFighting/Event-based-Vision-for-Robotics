@@ -1,15 +1,13 @@
 # Awsome-Event-based-Vision-for-Robots (Autonomous-Driving & Robotic-Grasping)
-Event-based neuromorphic vision for autonomous driving: a paradigm shift for bio-inspired visual sensing and perception
 
-
-Collect some papers about event-based Autonomous Driving & Robotic-Grasping. 
+Collect some papers about event-based Autonomous Driving & event-based Robotic-Grasping. 
 
 If you find some overlooked papers, please open issues or pull requests (recommended).
 
 
 ## Papers
 
-### Survey paper
+### Survey papers
 
 - <a name="Gallego20tpami"></a>Gallego, G., Delbruck, T., Orchard, G., Bartolozzi, C., Taba, B., Censi, A., Leutenegger, S., Davison, A., Conradt, J., Daniilidis, K., Scaramuzza, D.,  
 **_[Event-based Vision: A Survey](http://rpg.ifi.uzh.ch/docs/EventVisionSurvey.pdf)_**,  
