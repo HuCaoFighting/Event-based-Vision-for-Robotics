@@ -1,4 +1,4 @@
-# Awsome-Event-based-Vision-for-Robots (Autonomous-Driving & Robotic-Grasping)
+# Awsome-Event-based-Vision-for-Robotics (Autonomous-Driving & Robotic-Grasping)
 
 Collect some papers about event-based Autonomous Driving & event-based Robotic-Grasping. 
 
