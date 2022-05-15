@@ -1,6 +1,6 @@
 # Awsome-Event-based-Vision-for-Robotics (Autonomous-Driving & Robotic-Grasping)
 
-Collect some papers about event-based Autonomous Driving & event-based Robotic-Grasping. 
+Collect some papers about event-based Autonomous Driving & Event-based Robotic-Grasping. 
 
 If you find some overlooked papers, please open issues or pull requests (recommended).
 
