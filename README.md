@@ -110,7 +110,7 @@ Proceedings of the AAAI Conference on Artificial Intelligence, 36(2), 1332-1340.
 - <a name="Munir, Farzeen"></a>Munir Farzeen, Azam Shoaib, Jeon Moongu, Lee Byung-Geun, Pedrycz Witold,
 *[LDNet: End-to-End Lane Marking Detection Approach Using a Dynamic Vision Sensor](https://ieeexplore.ieee.org/document/9518365)*,  
 IEEE Transactions on Intelligent Transportation Systems ( Volume: 23, Issue: 7, July 2022).
-- <a name="Munir, Farzeen"></a>Munir Farzeen, Azam Shoaib, Jeon Moongu, Lee Byung-Geun, Pedrycz Witold,
+- <a name="Jianing Li"></a>Jianing Li, Jia Li, Lin Zhu, Xijie Xiang, Tiejun Huang, Yonghong Tian,
 *[Asynchronous Spatio-Temporal Memory Network for Continuous Event-Based Object Detection](https://ieeexplore.ieee.org/document/9749022)*,  
 IIEEE Transactions on Image Processing ( Volume: 31, 04 April 2022).
 
