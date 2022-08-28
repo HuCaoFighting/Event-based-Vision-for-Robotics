@@ -126,9 +126,6 @@ Frontiers in Neurorobotics, 2021. [Dataset](https://github.com/HuCaoFighting/DVS
 - <a name="NeuroGrasp"></a>Hu Cao , Guang Chen , Zhijun Li , Yingbai Hu ,  Alois Knoll,  
 *[NeuroGrasp: Multimodal Neural Network With Euler Region Regression for Neuromorphic Vision-Based Grasp Pose Estimation](https://ieeexplore.ieee.org/abstract/document/9787342)*,  
  IEEE Transactions on Instrumentation and Measurement (TIM), 2021. [Dataset](https://github.com/HuCaoFighting/DVS-GraspingDataSet).
- - <a name="Muthusamy20access"></a>Muthusamy, R., Huang, X., Zweiri, Y., Seneviratne, L., Gan, D.,  
-*[Neuromorphic Event-Based Slip Detection and suppression in Robotic Grasping and Manipulation](https://doi.org/10.1109/ACCESS.2020.3017738)*,  
-IEEE Access, 2020. [PDF](https://arxiv.org/pdf/2004.07386)
 
 
 ### arXiv papers
