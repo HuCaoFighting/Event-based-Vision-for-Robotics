@@ -113,6 +113,12 @@ IEEE Transactions on Intelligent Transportation Systems ( Volume: 23, Issue: 7, 
 - <a name="Jianing Li"></a>Jianing Li, Jia Li, Lin Zhu, Xijie Xiang, Tiejun Huang, Yonghong Tian,
 *[Asynchronous Spatio-Temporal Memory Network for Continuous Event-Based Object Detection](https://ieeexplore.ieee.org/document/9749022)*,  
 IIEEE Transactions on Image Processing ( Volume: 31, 04 April 2022).
+- <a name="Zhang, Jiaming"></a>Zhang, Jiaming and Yang, Kailun and Stiefelhagen, Rainer
+*[ISSAFE: Improving Semantic Segmentation in Accidents by Fusing Event-based Data](https://ieeexplore.ieee.org/document/9636109)*,  
+2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
+- <a name="Jianing Li"></a>Zhang, Jiaming and Yang, Kailun and Stiefelhagen, Rainer
+*[Exploring Event-Driven Dynamic Context for Accident Scene Segmentation](https://ieeexplore.ieee.org/document/9658309)*,  
+IEEE Transactions on Intelligent Transportation Systems.
 
 
 
