@@ -136,5 +136,6 @@ Frontiers in Neurorobotics, 2021. [Dataset](https://github.com/HuCaoFighting/DVS
 
 ### arXiv papers
 - **[DRFuser]** Multi-Modal Fusion for Sensorimotor Coordination in Steering Angle Prediction [[paper](https://arxiv.org/abs/2202.05500)] [[code](https://github.com/azamshoaib/drfuser)]
+- **[CMX]** CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers [[paper](https://arxiv.org/pdf/2203.04838v2.pdf)] [[code](https://github.com/huaaaliu/RGBX_Semantic_Segmentation)]
 -  Traffic Sign Detection With Event Cameras and DCNN [[paper](https://arxiv.org/abs/2207.13345)]
 
