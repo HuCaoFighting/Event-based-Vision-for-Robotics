@@ -127,7 +127,7 @@ Jingyi Zhang, Guoqi Li, and Ziyang Zhang
 *[Event-Based Semantic Segmentation With Posterior Attention](https://ieeexplore.ieee.org/document/10058930)*,  
 IEEE TRANSACTIONS ON IMAGE PROCESSING, VOL. 32, 2023  [Code](https://github.com/zexiJia/EvSegFormer)
 - <a name="Jiaming Zhang"></a>Jiaming Zhang, Kailun Yang, Rainer Stiefelhagen
-*[Exploring Event-driven Dynamic Context for Accident Scene Segmentation)*,  
+*[Exploring Event-driven Dynamic Context for Accident Scene Segmentation](https://arxiv.org/abs/2112.05006)*,  
 IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS, VOL. 23, NO. 3, MARCH 2022  [Code](https://github.com/jamycheung/ISSAFE)
 
 ### Papers about Robotic Grasping
