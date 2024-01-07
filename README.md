@@ -116,14 +116,19 @@ IIEEE Transactions on Image Processing ( Volume: 31, 04 April 2022).
 - <a name="Zhang, Jiaming"></a>Zhang, Jiaming and Yang, Kailun and Stiefelhagen, Rainer
 *[ISSAFE: Improving Semantic Segmentation in Accidents by Fusing Event-based Data](https://ieeexplore.ieee.org/document/9636109)*,  
 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
-- <a name="Jianing Li"></a>Zhang, Jiaming and Yang, Kailun and Stiefelhagen, Rainer
-*[Exploring Event-Driven Dynamic Context for Accident Scene Segmentation](https://ieeexplore.ieee.org/document/9658309)*,  
-IEEE Transactions on Intelligent Transportation Systems.
-
-
-
-
-
+- <a name="Zhaoning Sun"></a>Nico Messikommer, Daniel Gehrig, Davide Scaramuzza
+*[ESS: Learning Event-based Semantic Segmentation from Still Images](https://https://arxiv.org/abs/2203.10016)*,
+European Conference on Computer Vision (ECCV), 2022  [Code](https://github.com/uzh-rpg/ess)
+- <a name="Yansong Peng"></a>Yueyi Zhang, Zhiwei Xiong, Xiaoyan Sun, Feng Wu
+*[GET: Group Event Transformer for Event-Based Vision](https://arxiv.org/abs/2310.02642)*,
+ICCV 2023  [Code](https://github.com/Peterande/GET-Group-Event-Transformer)
+- <a name="Zexi Jia"></a>Kaichao You, Weihua He, Yang Tian, Yongxiang Feng, Yaoyuan Wang, Xu Jia, Yihang Lou,
+Jingyi Zhang, Guoqi Li, and Ziyang Zhang
+*[Event-Based Semantic Segmentation With Posterior Attention](https://ieeexplore.ieee.org/document/10058930)*,
+IEEE TRANSACTIONS ON IMAGE PROCESSING, VOL. 32, 2023  [Code](https://github.com/zexiJia/EvSegFormer)
+- <a name="Jiaming Zhang"></a>Jiaming Zhang, Kailun Yang, Rainer Stiefelhagen
+*[Exploring Event-driven Dynamic Context for Accident Scene Segmentation)*,
+IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS, VOL. 23, NO. 3, MARCH 2022  [Code](https://github.com/jamycheung/ISSAFE)
 
 ### Papers about Robotic Grasping
 - <a name="E-Grasping"></a>Bin Li, Hu Cao*, Zhongnan Qu, Yingbai Hu, Zhenke Wang, Zichen Liang,  
