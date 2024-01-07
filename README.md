@@ -137,8 +137,22 @@ Frontiers in Neurorobotics, 2021. [Dataset](https://github.com/HuCaoFighting/DVS
 - <a name="NeuroGrasp"></a>Hu Cao , Guang Chen , Zhijun Li , Yingbai Hu ,  Alois Knoll,  
 *[NeuroGrasp: Multimodal Neural Network With Euler Region Regression for Neuromorphic Vision-Based Grasp Pose Estimation](https://ieeexplore.ieee.org/abstract/document/9787342)*,  
  IEEE Transactions on Instrumentation and Measurement (TIM), 2021. [Dataset](https://github.com/HuCaoFighting/DVS-GraspingDataSet).
-
-
+- <a name=""></a>Kechun Xu, Shuqi Zhao, Zhongxiang Zhou, Zizhang Li, Huaijin Pi, Yifeng Zhu, Yue Wang, Rong Xiong,  
+*[A Joint Modeling of Vision-Language-Action for Target-oriented Grasping in Clutter](https://arxiv.org/abs/2302.12610)*,  
+ ICRA 2023. [Code](https://github.com/xukechun/Vision-Language-Grasping).
+- <a name=""></a>Wenlong Huang, Chen Wang, Ruohan Zhang, Yunzhu Li, Jiajun Wu, Li Fei-Fei,  
+*[VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models](https://arxiv.org/abs/2307.05973)*,  
+  [Code](https://github.com/huangwl18/VoxPoser).
+- <a name=""></a>Chao Tang, Dehao Huang, Wenqi Ge, Weiyu Liu, Hong Zhang,  
+*[GraspGPT: Leveraging Semantic Knowledge from a Large Language Model for Task-Oriented Grasping](https://arxiv.org/abs/2307.13204)*,  
+  [Code](https://www.catalyzex.com/paper/arxiv%3A2307.13204).
+- <a name=""></a>Xinyu Chen, Jian Yang, Zonghan He, Haobin Yang, Qi Zhao, Yuhui Shi,  
+*[QwenGrasp: A Usage of Large Vision-Language Model for Target-Oriented Grasping](https://arxiv.org/abs/2309.16426)*,  
+  [Code](https://www.catalyzex.com/paper/arxiv%3A2309.16426).
+- <a name=""></a>Reihaneh Mirjalili, Michael Krawez, Simone Silenzi, Yannik Blei, Wolfram Burgard,  
+*[LAN-grasp: Using Large Language Models for Semantic Object Grasping](https://arxiv.org/abs/2310.05239)*,  
+  [Code](https://www.catalyzex.com/paper/arxiv%3A2310.05239).
+  
 ### arXiv papers
 - **[DRFuser]** Multi-Modal Fusion for Sensorimotor Coordination in Steering Angle Prediction [[paper](https://arxiv.org/abs/2202.05500)] [[code](https://github.com/azamshoaib/drfuser)]
 - **[CMX]** CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers [[paper](https://arxiv.org/pdf/2203.04838v2.pdf)] [[code](https://github.com/huaaaliu/RGBX_Semantic_Segmentation)]
