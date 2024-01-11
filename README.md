@@ -141,7 +141,7 @@ Frontiers in Neurorobotics, 2021. [Dataset](https://github.com/HuCaoFighting/DVS
 *[NeuroGrasp: Multimodal Neural Network With Euler Region Regression for Neuromorphic Vision-Based Grasp Pose Estimation](https://ieeexplore.ieee.org/abstract/document/9787342)*,  
  IEEE Transactions on Instrumentation and Measurement (TIM), 2021. [Dataset](https://github.com/HuCaoFighting/DVS-GraspingDataSet).
 
-### LLM VLM for Robotics
+### LLM-VLM for Robotics
 - <a name=""></a>Kechun Xu, Shuqi Zhao, Zhongxiang Zhou, Zizhang Li, Huaijin Pi, Yifeng Zhu, Yue Wang, Rong Xiong,  
 *[A Joint Modeling of Vision-Language-Action for Target-oriented Grasping in Clutter](https://arxiv.org/abs/2302.12610)*,  
  ICRA 2023. [Code](https://github.com/xukechun/Vision-Language-Grasping).
