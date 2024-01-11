@@ -129,6 +129,9 @@ IEEE TRANSACTIONS ON IMAGE PROCESSING, VOL. 32, 2023  [Code](https://github.com/
 - <a name="Jiaming Zhang"></a>Jiaming Zhang, Kailun Yang, Rainer Stiefelhagen
 *[Exploring Event-driven Dynamic Context for Accident Scene Segmentation](https://arxiv.org/abs/2112.05006)*,  
 IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS, VOL. 23, NO. 3, MARCH 2022  [Code](https://github.com/jamycheung/ISSAFE)
+- <a name="Zhuyun Zhou"></a>Zhuyun Zhou, Zongwei Wu, Rémi Boutteau, Fan Yang, Cédric Demonceaux, Dominique Ginhac
+*[RGB-Event Fusion for Moving Object Detection in Autonomous Driving](https://doi.org/10.48550/arXiv.2209.08323)*,  
+ICRA 2023  [Code](https://github.com/ZZY-Zhou/RENet)
 
 ### Papers about Robotic Grasping
 - <a name="E-Grasping"></a>Bin Li, Hu Cao*, Zhongnan Qu, Yingbai Hu, Zhenke Wang, Zichen Liang,  
