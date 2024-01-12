@@ -129,21 +129,10 @@ IEEE TRANSACTIONS ON IMAGE PROCESSING, VOL. 32, 2023  [Code](https://github.com/
 - <a name="Jiaming Zhang"></a>Jiaming Zhang, Kailun Yang, Rainer Stiefelhagen
 *[Exploring Event-driven Dynamic Context for Accident Scene Segmentation](https://arxiv.org/abs/2112.05006)*,  
 IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS, VOL. 23, NO. 3, MARCH 2022  [Code](https://github.com/jamycheung/ISSAFE)
-- <a name="Zhuyun Zhou"></a>Zhuyun Zhou, Zongwei Wu, Rémi Boutteau, Fan Yang, Cédric Demonceaux, Dominique Ginhac
-*[RGB-Event Fusion for Moving Object Detection in Autonomous Driving](https://doi.org/10.48550/arXiv.2209.08323)*,  
-ICRA 2023  [Code](https://github.com/ZZY-Zhou/RENet)
-- <a name="Zhanwen Liu"></a>Zhanwen Liu, Nan Yang, Yang Wang, Yuke Li, Xiangmo Zhao, Fei-Yue Wang
-*[Enhancing Traffic Object Detection in Variable Illumination with RGB-Event Fusion](https://doi.org/10.48550/arXiv.2311.00436)*,  
-Computer Vision and Pattern Recognition (cs.CV)
-- <a name="Jianping Jiang"></a>Jianping Jiang, Xinyu Zhou, Peiqi Duan, Boxin Shi
-*[EvPlug: Learn a Plug-and-Play Module for Event and Image Fusion](https://doi.org/10.48550/arXiv.2312.16933)*,  
-	Computer Vision and Pattern Recognition (cs.CV)
 - <a name="Nan Yang"></a>Nan Yang; Zhanwen Liu,Shuang Ma,Yujing Sun,Yi He,Yang Wang
 *[Joint Intensity and Event Framework for Vehicle Detection in Degraded Conditions](https://ieeexplore.ieee.org/abstract/document/10243687)*,  
 2023 7th International Conference on Transportation Information and Safety (ICTIS)
-- <a name="Lei Sun"></a>Lei Sun, Christos Sakaridis, Jingyun Liang, Qi Jiang, Kailun Yang, Peng Sun, Yaozu Ye, Kaiwei Wang, Luc Van Gool
-*[Event-Based Fusion for Motion Deblurring with Cross-modal Attention](https://doi.org/10.48550/arXiv.2112.00167)*,
-Computer Vision and Pattern Recognition (cs.CV)  [Code](https://github.com/AHupuJR/EFNet?utm_source=catalyzex.com)
+
 
 ### Papers about Robotic Grasping
 - <a name="E-Grasping"></a>Bin Li, Hu Cao*, Zhongnan Qu, Yingbai Hu, Zhenke Wang, Zichen Liang,  
@@ -175,4 +164,6 @@ Frontiers in Neurorobotics, 2021. [Dataset](https://github.com/HuCaoFighting/DVS
 - **[CMX]** CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers [[paper](https://arxiv.org/pdf/2203.04838v2.pdf)] [[code](https://github.com/huaaaliu/RGBX_Semantic_Segmentation)]
 -  Traffic Sign Detection With Event Cameras and DCNN [[paper](https://arxiv.org/abs/2207.13345)]
 -  RGB-Event Fusion for Moving Object Detection in Autonomous Driving [[paper](https://arxiv.org/abs/2209.08323)]
-
+-  Event-Based Fusion for Motion Deblurring with Cross-modal Attention [[paper](https://doi.org/10.48550/arXiv.2112.00167)]
+-  EvPlug: Learn a Plug-and-Play Module for Event and Image Fusion [[paper](https://doi.org/10.48550/arXiv.2312.16933)]
+-  Enhancing Traffic Object Detection in Variable Illumination with RGB-Event Fusion [[paper](https://doi.org/10.48550/arXiv.2311.00436)]
