@@ -164,6 +164,6 @@ Frontiers in Neurorobotics, 2021. [Dataset](https://github.com/HuCaoFighting/DVS
 - **[CMX]** CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers [[paper](https://arxiv.org/pdf/2203.04838v2.pdf)] [[code](https://github.com/huaaaliu/RGBX_Semantic_Segmentation)]
 -  Traffic Sign Detection With Event Cameras and DCNN [[paper](https://arxiv.org/abs/2207.13345)]
 -  RGB-Event Fusion for Moving Object Detection in Autonomous Driving [[paper](https://arxiv.org/abs/2209.08323)] [[code](https://github.com/ZZY-Zhou/RENet/tree/main)]
--  Event-Based Fusion for Motion Deblurring with Cross-modal Attention [[paper](https://doi.org/10.48550/arXiv.2112.00167)] [[code](https://github.com/AHupuJR/EFNet]
+-  Event-Based Fusion for Motion Deblurring with Cross-modal Attention [[paper](https://doi.org/10.48550/arXiv.2112.00167)] [[code](https://github.com/AHupuJR/EFNet)]
 -  EvPlug: Learn a Plug-and-Play Module for Event and Image Fusion [[paper](https://doi.org/10.48550/arXiv.2312.16933)]
 -  Enhancing Traffic Object Detection in Variable Illumination with RGB-Event Fusion [[paper](https://doi.org/10.48550/arXiv.2311.00436)]
