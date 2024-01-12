@@ -141,6 +141,9 @@ Computer Vision and Pattern Recognition (cs.CV)
 - <a name="Nan Yang"></a>Nan Yang; Zhanwen Liu,Shuang Ma,Yujing Sun,Yi He,Yang Wang
 *[Joint Intensity and Event Framework for Vehicle Detection in Degraded Conditions](https://ieeexplore.ieee.org/abstract/document/10243687)*,  
 2023 7th International Conference on Transportation Information and Safety (ICTIS)
+- <a name="Lei Sun"></a>Lei Sun, Christos Sakaridis, Jingyun Liang, Qi Jiang, Kailun Yang, Peng Sun, Yaozu Ye, Kaiwei Wang, Luc Van Gool
+*[Event-Based Fusion for Motion Deblurring with Cross-modal Attention](https://doi.org/10.48550/arXiv.2112.00167)*,
+Computer Vision and Pattern Recognition (cs.CV)  [Code](https://github.com/AHupuJR/EFNet?utm_source=catalyzex.com)
 
 ### Papers about Robotic Grasping
 - <a name="E-Grasping"></a>Bin Li, Hu Cao*, Zhongnan Qu, Yingbai Hu, Zhenke Wang, Zichen Liang,  
