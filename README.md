@@ -132,6 +132,15 @@ IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS, VOL. 23, NO. 3, MARCH 2
 - <a name="Zhuyun Zhou"></a>Zhuyun Zhou, Zongwei Wu, Rémi Boutteau, Fan Yang, Cédric Demonceaux, Dominique Ginhac
 *[RGB-Event Fusion for Moving Object Detection in Autonomous Driving](https://doi.org/10.48550/arXiv.2209.08323)*,  
 ICRA 2023  [Code](https://github.com/ZZY-Zhou/RENet)
+- <a name="Zhanwen Liu"></a>Zhanwen Liu, Nan Yang, Yang Wang, Yuke Li, Xiangmo Zhao, Fei-Yue Wang
+*[Enhancing Traffic Object Detection in Variable Illumination with RGB-Event Fusion](https://doi.org/10.48550/arXiv.2311.00436)*,  
+Computer Vision and Pattern Recognition (cs.CV)
+- <a name="Jianping Jiang"></a>Jianping Jiang, Xinyu Zhou, Peiqi Duan, Boxin Shi
+*[EvPlug: Learn a Plug-and-Play Module for Event and Image Fusion](https://doi.org/10.48550/arXiv.2312.16933)*,  
+	Computer Vision and Pattern Recognition (cs.CV)
+- <a name="Nan Yang"></a>Nan Yang; Zhanwen Liu,Shuang Ma,Yujing Sun,Yi He,Yang Wang
+*[Joint Intensity and Event Framework for Vehicle Detection in Degraded Conditions](https://ieeexplore.ieee.org/abstract/document/10243687)*,  
+2023 7th International Conference on Transportation Information and Safety (ICTIS)
 
 ### Papers about Robotic Grasping
 - <a name="E-Grasping"></a>Bin Li, Hu Cao*, Zhongnan Qu, Yingbai Hu, Zhenke Wang, Zichen Liang,  
