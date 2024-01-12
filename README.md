@@ -132,7 +132,15 @@ IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS, VOL. 23, NO. 3, MARCH 2
 - <a name="Nan Yang"></a>Nan Yang; Zhanwen Liu,Shuang Ma,Yujing Sun,Yi He,Yang Wang
 *[Joint Intensity and Event Framework for Vehicle Detection in Degraded Conditions](https://ieeexplore.ieee.org/abstract/document/10243687)*,  
 2023 7th International Conference on Transportation Information and Safety (ICTIS)
-
+- <a name="Jiaming Zhang"></a>Jiaming Zhang; Huayao Liu; Kailun Yang; Xinxin Hu; Ruiping Liu; Rainer Stiefelhagen
+*[CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation With Transformers](https://ieeexplore.ieee.org/abstract/document/10231003)*,  
+IEEE Transactions on Intelligent Transportation Systems  [Code](https://github.com/huaaaliu/RGBX_Semantic_Segmentation?utm_source=catalyzex.com)
+- <a name="Piotr Wzorek"></a>Piotr Wzorek; Tomasz Kryjak
+*[Traffic Sign Detection With Event Cameras and DCNN](https://ieeexplore.ieee.org/abstract/document/9927864)*,  
+ 2022 Signal Processing: Algorithms, Architectures, Arrangements, and Applications (SPA)  
+- <a name="Zhuyun Zhou"></a>Zhuyun Zhou; Zongwei Wu; Rémi Boutteau; Fan Yang; Cédric Demonceaux; Dominique Ginhac
+*[RGB-Event Fusion for Moving Object Detection in Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10161563)*,  
+2023 IEEE International Conference on Robotics and Automation (ICRA)  [Code](https://github.com/ZZY-Zhou/RENet)
 
 ### Papers about Robotic Grasping
 - <a name="E-Grasping"></a>Bin Li, Hu Cao*, Zhongnan Qu, Yingbai Hu, Zhenke Wang, Zichen Liang,  
@@ -161,9 +169,6 @@ Frontiers in Neurorobotics, 2021. [Dataset](https://github.com/HuCaoFighting/DVS
   
 ### arXiv papers
 - **[DRFuser]** Multi-Modal Fusion for Sensorimotor Coordination in Steering Angle Prediction [[paper](https://arxiv.org/abs/2202.05500)] [[code](https://github.com/azamshoaib/drfuser)]
-- **[CMX]** CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers [[paper](https://arxiv.org/pdf/2203.04838v2.pdf)] [[code](https://github.com/huaaaliu/RGBX_Semantic_Segmentation)]
--  Traffic Sign Detection With Event Cameras and DCNN [[paper](https://arxiv.org/abs/2207.13345)]
--  **[RENet]** RGB-Event Fusion for Moving Object Detection in Autonomous Driving [[paper](https://arxiv.org/abs/2209.08323)] [[code](https://github.com/ZZY-Zhou/RENet/tree/main)]
 -  **[EFNet]** Event-Based Fusion for Motion Deblurring with Cross-modal Attention [[paper](https://doi.org/10.48550/arXiv.2112.00167)] [[code](https://github.com/AHupuJR/EFNet)]
 -  EvPlug: Learn a Plug-and-Play Module for Event and Image Fusion [[paper](https://doi.org/10.48550/arXiv.2312.16933)]
 -  Enhancing Traffic Object Detection in Variable Illumination with RGB-Event Fusion [[paper](https://doi.org/10.48550/arXiv.2311.00436)]
