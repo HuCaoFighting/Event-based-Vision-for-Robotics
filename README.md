@@ -139,11 +139,11 @@ IEEE Transactions on Intelligent Transportation Systems  [Code](https://github.c
 *[Traffic Sign Detection With Event Cameras and DCNN](https://ieeexplore.ieee.org/abstract/document/9927864)*,  
  2022 Signal Processing: Algorithms, Architectures, Arrangements, and Applications (SPA)  
 - <a name="Zhuyun Zhou"></a>Zhuyun Zhou; Zongwei Wu; Rémi Boutteau; Fan Yang; Cédric Demonceaux; Dominique Ginhac
-*[RGB-Event Fusion for Moving Object Detection in Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10161563)*,  
+*[RGB-Event Fusion for Moving Object Detection in Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10161563)*,
 2023 IEEE International Conference on Robotics and Automation (ICRA)  [Code](https://github.com/ZZY-Zhou/RENet)
 - <a name="Mathias Gehrig"></a>Mathias Gehrig; Davide Scaramuzza;
-*[Recurrent Vision Transformers for Object Detection with Event Cameras](https://ieeexplore.ieee.org/document/10204090)*,
-2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) [Code](https://github.com/uzh-rpg/RVT),  [YouTube](https://www.youtube.com/watch?v=xZ-pNwHxHgY).
+*[Recurrent Vision Transformers for Object Detection with Event Cameras](https://ieeexplore.ieee.org/document/10204090)*, 
+2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) [Code](https://github.com/uzh-rpg/RVT),  [YouTube](https://www.youtube.com/watch?v=xZ-pNwHxHgY). [Gen 1 Dataset](https://www.prophesee.ai/2020/01/24/prophesee-gen1-automotive-detection-dataset/)
 
 ### Papers about Robotic Grasping
 - <a name="E-Grasping"></a>Bin Li, Hu Cao*, Zhongnan Qu, Yingbai Hu, Zhenke Wang, Zichen Liang,  
