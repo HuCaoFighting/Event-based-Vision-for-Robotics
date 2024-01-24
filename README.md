@@ -178,3 +178,4 @@ Frontiers in Neurorobotics, 2021. [Dataset](https://github.com/HuCaoFighting/DVS
 -  **[EFNet]** Event-Based Fusion for Motion Deblurring with Cross-modal Attention [[paper](https://doi.org/10.48550/arXiv.2112.00167)] [[code](https://github.com/AHupuJR/EFNet)]
 -  EvPlug: Learn a Plug-and-Play Module for Event and Image Fusion [[paper](https://doi.org/10.48550/arXiv.2312.16933)]
 -  Enhancing Traffic Object Detection in Variable Illumination with RGB-Event Fusion [[paper](https://doi.org/10.48550/arXiv.2311.00436)]
+-  SODFormer: Streaming Object Detection with Transformer Using Events and Frames [[paper](https://arxiv.org/abs/2308.04047)] [[code](https://github.com/dianzl/SODFormer)]
