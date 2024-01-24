@@ -141,6 +141,9 @@ IEEE Transactions on Intelligent Transportation Systems  [Code](https://github.c
 - <a name="Zhuyun Zhou"></a>Zhuyun Zhou; Zongwei Wu; Rémi Boutteau; Fan Yang; Cédric Demonceaux; Dominique Ginhac
 *[RGB-Event Fusion for Moving Object Detection in Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10161563)*,  
 2023 IEEE International Conference on Robotics and Automation (ICRA)  [Code](https://github.com/ZZY-Zhou/RENet)
+- <a name="Mathias Gehrig"></a>Mathias Gehrig; Davide Scaramuzza;
+*[Recurrent Vision Transformers for Object Detection with Event Cameras](https://ieeexplore.ieee.org/document/10204090)*,
+2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) [Code](https://github.com/uzh-rpg/RVT),  [YouTube](https://www.youtube.com/watch?v=xZ-pNwHxHgY).
 
 ### Papers about Robotic Grasping
 - <a name="E-Grasping"></a>Bin Li, Hu Cao*, Zhongnan Qu, Yingbai Hu, Zhenke Wang, Zichen Liang,  
@@ -149,6 +152,7 @@ Frontiers in Neurorobotics, 2021. [Dataset](https://github.com/HuCaoFighting/DVS
 - <a name="NeuroGrasp"></a>Hu Cao , Guang Chen , Zhijun Li , Yingbai Hu ,  Alois Knoll,  
 *[NeuroGrasp: Multimodal Neural Network With Euler Region Regression for Neuromorphic Vision-Based Grasp Pose Estimation](https://ieeexplore.ieee.org/abstract/document/9787342)*,  
  IEEE Transactions on Instrumentation and Measurement (TIM), 2021. [Dataset](https://github.com/HuCaoFighting/DVS-GraspingDataSet).
+
 
 ### LLM-VLM for Robotics
 - <a name=""></a>Kechun Xu, Shuqi Zhao, Zhongxiang Zhou, Zizhang Li, Huaijin Pi, Yifeng Zhu, Yue Wang, Rong Xiong,  
