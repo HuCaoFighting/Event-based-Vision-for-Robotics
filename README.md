@@ -46,7 +46,7 @@ IEEE Robotics and Automation Letters (RA-L), 2021. [Dataset](http://rpg.ifi.uzh.
 - <a name="Chen20tits"></a>Chen, G., Wang, F., Li, W., Hong, L., Conradt, J., Chen, J., Zhang, Z., Lu, Y., Knoll, A., 
 *[NeuroIV: Neuromorphic Vision Meets Intelligent Vehicle Towards Safe Driving With a New Database and Baseline Evaluations](https://doi.org/10.1109/TITS.2020.3022921)*,  
 IEEE Trans. Intelligent Transportation Systems (TITS), 2020.
-- <a name="PKU-DAVIS-SOD Dataset"></a> PKU-DAVIS-SOD Dataset by National Engineering Research Center for Visual Technology, Peking University],
+- <a name="PKU-DAVIS-SOD Dataset"></a> PKU-DAVIS-SOD Dataset by National Engineering Research Center for Visual Technology, Peking University,
 [Dataset](https://www.pkuml.org/research/pku-davis-sod-dataset.html),
 
 #### Datasets about Robotic Grasping
