@@ -66,6 +66,9 @@ IEEE Robotics and Automation Letters (RA-L), 2021. [PDF](http://rpg.ifi.uzh.ch/d
 - <a name="Alonso19cvprw"></a>Alonso I., Murillo A.,  
 *[EV-SegNet: Semantic Segmentation for Event-based Cameras](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Alonso_EV-SegNet_Semantic_Segmentation_for_Event-Based_Cameras_CVPRW_2019_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [PDF](https://arxiv.org/pdf/1811.12039.pdf). [Project page](https://github.com/Shathe/Ev-SegNet). [Video pitch](https://youtu.be/AuXN7y3bMqo)
+- <a name="Slasher"></a>Yuhuang Hu; Hong Ming Chen; Tobi Delbruck;
+*[Slasher: Stadium racer car for event camera end-to-end learning autonomous driving experiments](https://ieeexplore.ieee.org/document/8771520)*, 
+2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS) [Code](https://github.com/AutoRally/), [Project page](https://sites.google.com/view/slasher-robot-car/home).
 - <a name="Wang21cvpr"></a>Wang, L., Chae, Y., Yoon, S.-H., Kim, T.-K., Yoon, K.-J.,  
 *[EvDistill: Asynchronous Events To End-Task Learning via Bidirectional Reconstruction-Guided Cross-Modal Knowledge Distillation](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_EvDistill_Asynchronous_Events_To_End-Task_Learning_via_Bidirectional_Reconstruction-Guided_Cross-Modal_CVPR_2021_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Code](https://github.com/addisonwang2013/evdistill).
@@ -146,12 +149,6 @@ IEEE Transactions on Intelligent Transportation Systems  [Code](https://github.c
 - <a name="Mathias Gehrig"></a>Mathias Gehrig; Davide Scaramuzza;
 *[Recurrent Vision Transformers for Object Detection with Event Cameras](https://ieeexplore.ieee.org/document/10204090)*, 
 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) [Code](https://github.com/uzh-rpg/RVT),  [YouTube](https://www.youtube.com/watch?v=xZ-pNwHxHgY). [Gen 1 Dataset](https://www.prophesee.ai/2020/01/24/prophesee-gen1-automotive-detection-dataset/)
-- <a name="EV-SegNet"></a>I˜nigo Alonso; Ana C. Murillo;
-*[EV-SegNet: Semantic Segmentation for Event-based Cameras](https://ieeexplore.ieee.org/document/9025483)*, 
-2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) [Code](https://github.com/Shathe/Ev-SegNet),
-- <a name="Slasher"></a>Yuhuang Hu; Hong Ming Chen; Tobi Delbruck;
-*[Slasher: Stadium racer car for event camera end-to-end learning autonomous driving experiments](https://ieeexplore.ieee.org/document/8771520)*, 
-2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS) [Code](https://github.com/AutoRally/), [Project page](https://sites.google.com/view/slasher-robot-car/home).
 
 ### Papers about Robotic Grasping
 - <a name="E-Grasping"></a>Bin Li, Hu Cao*, Zhongnan Qu, Yingbai Hu, Zhenke Wang, Zichen Liang,  
