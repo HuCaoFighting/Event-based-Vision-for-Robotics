@@ -16,7 +16,6 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2020.
 [Event-Based Neuromorphic Vision for Autonomous Driving: A Paradigm Shift for Bio-Inspired Visual Sensing and Perception](https://doi.org/10.1109/MSP.2020.2985815),  
 IEEE Signal Processing Magazine, 37(4):34-49, 2020.
 
-
 ### Datasets
 #### Datasets about Autonomous Driving
 
@@ -68,7 +67,7 @@ IEEE Robotics and Automation Letters (RA-L), 2021. [PDF](http://rpg.ifi.uzh.ch/d
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [PDF](https://arxiv.org/pdf/1811.12039.pdf). [Project page](https://github.com/Shathe/Ev-SegNet). [Video pitch](https://youtu.be/AuXN7y3bMqo)
 - <a name="Slasher"></a>Yuhuang Hu; Hong Ming Chen; Tobi Delbruck;
 *[Slasher: Stadium racer car for event camera end-to-end learning autonomous driving experiments](https://ieeexplore.ieee.org/document/8771520)*, 
-2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS) [Code](https://github.com/AutoRally/), [Project page](https://sites.google.com/view/slasher-robot-car/home).
+IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS) 2019 [Code](https://github.com/AutoRally/), [Project page](https://sites.google.com/view/slasher-robot-car/home).
 - <a name="Wang21cvpr"></a>Wang, L., Chae, Y., Yoon, S.-H., Kim, T.-K., Yoon, K.-J.,  
 *[EvDistill: Asynchronous Events To End-Task Learning via Bidirectional Reconstruction-Guided Cross-Modal Knowledge Distillation](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_EvDistill_Asynchronous_Events_To_End-Task_Learning_via_Bidirectional_Reconstruction-Guided_Cross-Modal_CVPR_2021_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Code](https://github.com/addisonwang2013/evdistill).
@@ -81,6 +80,9 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2019.
 - <a name="Li19icme"></a>Li, J., Dong, S., Yu, Z., Tian, Y., Huang, T.,  
 *[Event-Based Vision Enhanced: A Joint Detection Framework in Autonomous Driving](https://doi.org/10.1109/ICME.2019.00242),*  
 IEEE Int. Conf. Multimedia and Expo (ICME), 2019.
+- <a name="Live Demonstration"></a>Alex Zihao Zhu; Liangzhe Yuan; Kenneth Chaney; Kostas Daniilidis;
+*[Live Demonstration: Unsupervised Event-Based Learning of Optical Flow, Depth and Egomotion](https://ieeexplore.ieee.org/document/9025423),*  
+IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) 2019, [Project page](https://inivation.com/dvs/) 
 - <a name="Perot20nips"></a>Perot, E., de Tournemire, P., Nitti, D., Masci, J., Sironi, A.,  
 [Learning to Detect Objects with a 1 Megapixel Event Camera](https://papers.nips.cc/paper/2020/file/c213877427b46fa96cff6c39e837ccee-Paper.pdf),  
 Advances in Neural Information Processing Systems 33 (NeurIPS), 2020. [1Mpx Detection Dataset](#1mpx_detection_dataset)
@@ -182,3 +184,4 @@ Frontiers in Neurorobotics, 2021. [Dataset](https://github.com/HuCaoFighting/DVS
 -  EvPlug: Learn a Plug-and-Play Module for Event and Image Fusion [[paper](https://doi.org/10.48550/arXiv.2312.16933)]
 -  Enhancing Traffic Object Detection in Variable Illumination with RGB-Event Fusion [[paper](https://doi.org/10.48550/arXiv.2311.00436)]
 -  SODFormer: Streaming Object Detection with Transformer Using Events and Frames [[paper](https://arxiv.org/abs/2308.04047)] [[code](https://github.com/dianzl/SODFormer)]
+-  Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks  [[paper](https://arxiv.org/abs/2302.08890)]
