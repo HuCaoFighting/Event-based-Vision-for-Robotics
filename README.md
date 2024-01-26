@@ -122,38 +122,38 @@ IEEE Transactions on Intelligent Transportation Systems ( Volume: 23, Issue: 7, 
 IIEEE Transactions on Image Processing ( Volume: 31, 04 April 2022).
 - <a name="Zhang, Jiaming"></a>Zhang, Jiaming and Yang, Kailun and Stiefelhagen, Rainer
 *[ISSAFE: Improving Semantic Segmentation in Accidents by Fusing Event-based Data](https://ieeexplore.ieee.org/document/9636109)*,  
-2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
+ 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
 - <a name="Zhaoning Sun"></a>Nico Messikommer, Daniel Gehrig, Davide Scaramuzza
 *[ESS: Learning Event-based Semantic Segmentation from Still Images](https://https://arxiv.org/abs/2203.10016)*,  
-European Conference on Computer Vision (ECCV), 2022  [Code](https://github.com/uzh-rpg/ess)
+ European Conference on Computer Vision (ECCV), 2022  [Code](https://github.com/uzh-rpg/ess)
 - <a name="Yansong Peng"></a>Yueyi Zhang, Zhiwei Xiong, Xiaoyan Sun, Feng Wu
 *[GET: Group Event Transformer for Event-Based Vision](https://arxiv.org/abs/2310.02642)*,  
-ICCV 2023  [Code](https://github.com/Peterande/GET-Group-Event-Transformer)
+ ICCV 2023  [Code](https://github.com/Peterande/GET-Group-Event-Transformer)
 - <a name="Zexi Jia"></a>Kaichao You, Weihua He, Yang Tian, Yongxiang Feng, Yaoyuan Wang, Xu Jia, Yihang Lou,
-Jingyi Zhang, Guoqi Li, and Ziyang Zhang
+ Jingyi Zhang, Guoqi Li, and Ziyang Zhang
 *[Event-Based Semantic Segmentation With Posterior Attention](https://ieeexplore.ieee.org/document/10058930)*,  
-IEEE TRANSACTIONS ON IMAGE PROCESSING, VOL. 32, 2023  [Code](https://github.com/zexiJia/EvSegFormer)
+ IEEE TRANSACTIONS ON IMAGE PROCESSING, VOL. 32, 2023  [Code](https://github.com/zexiJia/EvSegFormer)
 - <a name="Jiaming Zhang"></a>Jiaming Zhang, Kailun Yang, Rainer Stiefelhagen
 *[Exploring Event-driven Dynamic Context for Accident Scene Segmentation](https://arxiv.org/abs/2112.05006)*,  
-IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS, VOL. 23, NO. 3, MARCH 2022  [Code](https://github.com/jamycheung/ISSAFE)
+ IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS, VOL. 23, NO. 3, MARCH 2022  [Code](https://github.com/jamycheung/ISSAFE)
 - <a name="Nan Yang"></a>Nan Yang; Zhanwen Liu,Shuang Ma,Yujing Sun,Yi He,Yang Wang
 *[Joint Intensity and Event Framework for Vehicle Detection in Degraded Conditions](https://ieeexplore.ieee.org/abstract/document/10243687)*,  
-2023 7th International Conference on Transportation Information and Safety (ICTIS)
+ 2023 7th International Conference on Transportation Information and Safety (ICTIS)
 - <a name="Jiaming Zhang"></a>Jiaming Zhang; Huayao Liu; Kailun Yang; Xinxin Hu; Ruiping Liu; Rainer Stiefelhagen
 *[CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation With Transformers](https://ieeexplore.ieee.org/abstract/document/10231003)*,  
-IEEE Transactions on Intelligent Transportation Systems  [Code](https://github.com/huaaaliu/RGBX_Semantic_Segmentation?utm_source=catalyzex.com)
+ IEEE Transactions on Intelligent Transportation Systems  [Code](https://github.com/huaaaliu/RGBX_Semantic_Segmentation?utm_source=catalyzex.com)
 - <a name="Piotr Wzorek"></a>Piotr Wzorek; Tomasz Kryjak
 *[Traffic Sign Detection With Event Cameras and DCNN](https://ieeexplore.ieee.org/abstract/document/9927864)*,  
  2022 Signal Processing: Algorithms, Architectures, Arrangements, and Applications (SPA)  
 - <a name="Zhuyun Zhou"></a>Zhuyun Zhou; Zongwei Wu; Rémi Boutteau; Fan Yang; Cédric Demonceaux; Dominique Ginhac
 *[RGB-Event Fusion for Moving Object Detection in Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10161563)*,
-2023 IEEE International Conference on Robotics and Automation (ICRA)  [Code](https://github.com/ZZY-Zhou/RENet)
+ 2023 IEEE International Conference on Robotics and Automation (ICRA)  [Code](https://github.com/ZZY-Zhou/RENet)
 - <a name="Mathias Gehrig"></a>Mathias Gehrig; Davide Scaramuzza;
 *[Recurrent Vision Transformers for Object Detection with Event Cameras](https://ieeexplore.ieee.org/document/10204090)*, 
-2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) [Code](https://github.com/uzh-rpg/RVT),  [YouTube](https://www.youtube.com/watch?v=xZ-pNwHxHgY). [Gen 1 Dataset](https://www.prophesee.ai/2020/01/24/prophesee-gen1-automotive-detection-dataset/)
+ 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) [Code](https://github.com/uzh-rpg/RVT),  [YouTube](https://www.youtube.com/watch?v=xZ-pNwHxHgY). [Gen 1 Dataset](https://www.prophesee.ai/2020/01/24/prophesee-gen1-automotive-detection-dataset/)
 - <a namw="Anindya Mondal"></a>Anindya Mondal; Shashant R; Jhony H; Giraldo: Thierry Bouwmans; Ananda S. Chowdhury;
 *[Moving Object Detection for Event-based vision using Graph Spectral Clustering](https://ieeexplore.ieee.org/document/9607843)*,
-2021 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW) [Code](https://github.com/mondalanindya/ICCVW2021_GSCEventMOD)
+ 2021 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW) [Code](https://github.com/mondalanindya/ICCVW2021_GSCEventMOD)
 
 ### Papers about Robotic Grasping
 - <a name="E-Grasping"></a>Bin Li, Hu Cao*, Zhongnan Qu, Yingbai Hu, Zhenke Wang, Zichen Liang,  
