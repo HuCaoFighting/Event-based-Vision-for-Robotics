@@ -152,6 +152,11 @@ Frontiers in Neurorobotics, 2021. [Dataset](https://github.com/HuCaoFighting/DVS
 *[NeuroGrasp: Multimodal Neural Network With Euler Region Regression for Neuromorphic Vision-Based Grasp Pose Estimation](https://ieeexplore.ieee.org/abstract/document/9787342)*,  
  IEEE Transactions on Instrumentation and Measurement (TIM), 2021. [Dataset](https://github.com/HuCaoFighting/DVS-GraspingDataSet).
 
+| Year | Paper | Publication | Code/Webpage |
+|------|-------|-------------|--------------|
+| 2021 | Event-Based Robotic Grasping Detection With Neuromorphic Vision Sensor and Event-Grasping Dataset | [Frontiers in Neurorobotics](https://www.frontiersin.org/articles/10.3389/fnbot.2020.00051/full) | [Dataset](https://github.com/HuCaoFighting/DVS-GraspingDataSet). |
+| 2021 | NeuroGrasp: Multimodal Neural Network With Euler Region Regression for Neuromorphic Vision-Based Grasp Pose Estimation | [IEEE Transactions on Instrumentation and Measurement (TIM)](https://ieeexplore.ieee.org/abstract/document/9787342) | [Dataset](https://github.com/HuCaoFighting/DVS-GraspingDataSet). |
+
 
 ### LLM-VLM for Robotics
 | Year | Paper | Publication | Code/Webpage |
