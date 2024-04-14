@@ -11,8 +11,8 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 
 | Year | Paper | Publication | Code/Webpage |
 |------|-------|-------------|--------------|
-| 2020 |[Event-based Vision: A Survey]|[TPAMI](http://rpg.ifi.uzh.ch/docs/EventVisionSurvey.pdf)| - |
-| 2020 |[Event-Based Neuromorphic Vision for Autonomous Driving: A Paradigm Shift for Bio-Inspired Visual Sensing and Perception]|[IEEE Signal Processing Magazine](https://doi.org/10.1109/MSP.2020.2985815)| - |
+| 2020 |Event-based Vision: A Survey|[TPAMI](http://rpg.ifi.uzh.ch/docs/EventVisionSurvey.pdf)| - |
+| 2020 |Event-Based Neuromorphic Vision for Autonomous Driving: A Paradigm Shift for Bio-Inspired Visual Sensing and Perception|[IEEE Signal Processing Magazine](https://doi.org/10.1109/MSP.2020.2985815)| - |
 
 
 
