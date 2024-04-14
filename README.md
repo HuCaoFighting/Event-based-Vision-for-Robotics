@@ -74,6 +74,18 @@ Frontiers in Neurorobotics, 2021. [Dataset](https://github.com/HuCaoFighting/DVS
 - <a name="NeuroGrasp"></a>Hu Cao , Guang Chen , Zhijun Li , Yingbai Hu ,  Alois Knoll,  
 *[NeuroGrasp: Multimodal Neural Network With Euler Region Regression for Neuromorphic Vision-Based Grasp Pose Estimation](https://ieeexplore.ieee.org/abstract/document/9787342)*,  
  IEEE Transactions on Instrumentation and Measurement (TIM), 2021. [Dataset](https://github.com/HuCaoFighting/DVS-GraspingDataSet).
+
+| Year | Paper | Publication | Code/Webpage |
+|------|-------|-------------|--------------|
+| 2021 | Event-Based Robotic Grasping Detection With Neuromorphic Vision Sensor and Event-Grasping Dataset | [Frontiers in Neurorobotics](https://www.frontiersin.org/articles/10.3389/fnbot.2020.00051/full) | [Dataset](https://github.com/HuCaoFighting/DVS-GraspingDataSet) |
+| 2019 | NeuroGrasp: Multimodal Neural Network With Euler Region Regression for Neuromorphic Vision-Based Grasp Pose Estimation | [IEEE Transactions on Instrumentation and Measurement (TIM)](https://ieeexplore.ieee.org/abstract/document/9787342) | [Dataset](https://github.com/HuCaoFighting/DVS-GraspingDataSet) |
+
+
+
+
+
+
+
 ### Papers about Autonomous Driving
 - <a name="Hidalgo20threedv"></a>Hidalgo-Carrió J., Gehrig D., Scaramuzza, D.,  
 *[Learning Monocular Dense Depth from Events](https://arxiv.org/pdf/2010.08350.pdf)*,  
