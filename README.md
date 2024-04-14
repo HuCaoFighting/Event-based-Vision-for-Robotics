@@ -175,8 +175,8 @@ Frontiers in Neurorobotics, 2021. [Dataset](https://github.com/HuCaoFighting/DVS
 | 2023 | A Joint Modeling of Vision-Language-Action for Target-oriented Grasping in Clutter | [ICRA](https://arxiv.org/abs/2302.12610) | [Code](https://github.com/xukechun/Vision-Language-Grasping).  |
 | 2023 | VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models | [arxiv](https://arxiv.org/abs/2307.05973) | [Code](https://github.com/huangwl18/VoxPoser) |
 | 2023 | GraspGPT: Leveraging Semantic Knowledge from a Large Language Model for Task-Oriented Grasping | [arxiv](https://arxiv.org/abs/2307.05973) | [Code](https://www.catalyzex.com/paper/arxiv%3A2307.13204) |
-| 2016 | QwenGrasp: A Usage of Large Vision-Language Model for Target-Oriented Grasping | [arxiv](https://arxiv.org/abs/2309.16426) | [Code](https://www.catalyzex.com/paper/arxiv%3A2309.16426).  |
-| 2016 | LAN-grasp: Using Large Language Models for Semantic Object Grasping | [arxiv](https://arxiv.org/abs/2310.05239) |  [Code](https://www.catalyzex.com/paper/arxiv%3A2310.05239). |
+| 2023 | QwenGrasp: A Usage of Large Vision-Language Model for Target-Oriented Grasping | [arxiv](https://arxiv.org/abs/2309.16426) | [Code](https://www.catalyzex.com/paper/arxiv%3A2309.16426).  |
+| 2023 | LAN-grasp: Using Large Language Models for Semantic Object Grasping | [arxiv](https://arxiv.org/abs/2310.05239) |  [Code](https://www.catalyzex.com/paper/arxiv%3A2310.05239). |
 
 
   
