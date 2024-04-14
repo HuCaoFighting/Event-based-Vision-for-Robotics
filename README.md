@@ -39,7 +39,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |------|-------|-------------|--------------|
 | 2021 | Event-Based Robotic Grasping Detection With Neuromorphic Vision Sensor and Event-Grasping Dataset | [Frontiers in Neurorobotics](https://www.frontiersin.org/articles/10.3389/fnbot.2020.00051/full) | [Dataset](https://github.com/HuCaoFighting/DVS-GraspingDataSet) |
 | 2019 | NeuroGrasp: Multimodal Neural Network With Euler Region Regression for Neuromorphic Vision-Based Grasp Pose Estimation | [IEEE Transactions on Instrumentation and Measurement (TIM)](https://ieeexplore.ieee.org/abstract/document/9787342) | [Dataset](https://github.com/HuCaoFighting/DVS-GraspingDataSet) |
-| 2016 |  |  |  |
+
 
 
 
@@ -59,9 +59,9 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 | 2023 | GET: Group Event Transformer for Event-Based Vision | [ICCV](https://arxiv.org/abs/2310.02642) | [Code](https://github.com/Peterande/GET-Group-Event-Transformer) |
 | 2023 | Joint Intensity and Event Framework for Vehicle Detection in Degraded Conditions | [ICTIS](https://ieeexplore.ieee.org/abstract/document/10243687) |  |
 | 2022 | Traffic Sign Detection With Event Cameras and DCNN | [SPA](https://ieeexplore.ieee.org/abstract/document/9927864) |  |
-| 2016 | RGB-Event Fusion for Moving Object Detection in Autonomous Driving | [ICRA](https://ieeexplore.ieee.org/abstract/document/10161563) | [Code](https://github.com/ZZY-Zhou/RENet) |
-| 2016 | Recurrent Vision Transformers for Object Detection with Event Cameras | [CVPR](https://ieeexplore.ieee.org/document/10204090) | [Code](https://github.com/uzh-rpg/RVT),  [YouTube](https://www.youtube.com/watch?v=xZ-pNwHxHgY). [Gen 1 Dataset] |
-| 2016 |  |  |  |
+| 2023 | RGB-Event Fusion for Moving Object Detection in Autonomous Driving | [ICRA](https://ieeexplore.ieee.org/abstract/document/10161563) | [Code](https://github.com/ZZY-Zhou/RENet) |
+| 2023 | Recurrent Vision Transformers for Object Detection with Event Cameras | [CVPR](https://ieeexplore.ieee.org/document/10204090) | [Code](https://github.com/uzh-rpg/RVT),  [YouTube](https://www.youtube.com/watch?v=xZ-pNwHxHgY). [Gen 1 Dataset] |
+
 
 
 ### Papers about Semantic Segmentation in Autonomous Driving
@@ -90,8 +90,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 | 2020 | Learning to Exploit Multiple Vision Modalities by Using Grafted Networks | [ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610086.pdf) |  |
 | 2020 | NeuroIV: Neuromorphic Vision Meets Intelligent Vehicle Towards Safe Driving With a New Database and Baseline Evaluations | [TITS](https://doi.org/10.1109/TITS.2020.3022921) |  |
 | 2019 | Event-Based Vision Enhanced: A Joint Detection Framework in Autonomous Driving | [ICME](https://doi.org/10.1109/ICME.2019.00242) | - |
-| 2016 |  |  |  |
-| 2016 |  |  |  |
+
 
 - <a name="Hidalgo20threedv"></a>Hidalgo-Carrió J., Gehrig D., Scaramuzza, D.,  
 *[Learning Monocular Dense Depth from Events](https://arxiv.org/pdf/2010.08350.pdf)*,  
