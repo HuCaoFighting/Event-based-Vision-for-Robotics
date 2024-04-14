@@ -145,13 +145,6 @@ IIEEE Transactions on Image Processing ( Volume: 31, 04 April 2022).
 2021 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW) [Code](https://github.com/mondalanindya/ICCVW2021_GSCEventMOD)
 
 ### Papers about Robotic Grasping
-- <a name="E-Grasping"></a>Bin Li, Hu Cao*, Zhongnan Qu, Yingbai Hu, Zhenke Wang, Zichen Liang,  
-*[Event-Based Robotic Grasping Detection With Neuromorphic Vision Sensor and Event-Grasping Dataset](https://www.frontiersin.org/articles/10.3389/fnbot.2020.00051/full)*,  
-Frontiers in Neurorobotics, 2021. [Dataset](https://github.com/HuCaoFighting/DVS-GraspingDataSet).
-- <a name="NeuroGrasp"></a>Hu Cao , Guang Chen , Zhijun Li , Yingbai Hu ,  Alois Knoll,  
-*[NeuroGrasp: Multimodal Neural Network With Euler Region Regression for Neuromorphic Vision-Based Grasp Pose Estimation](https://ieeexplore.ieee.org/abstract/document/9787342)*,  
- IEEE Transactions on Instrumentation and Measurement (TIM), 2021. [Dataset](https://github.com/HuCaoFighting/DVS-GraspingDataSet).
-
 | Year | Paper | Publication | Code/Webpage |
 |------|-------|-------------|--------------|
 | 2021 | Event-Based Robotic Grasping Detection With Neuromorphic Vision Sensor and Event-Grasping Dataset | [Frontiers in Neurorobotics](https://www.frontiersin.org/articles/10.3389/fnbot.2020.00051/full) | [Dataset](https://github.com/HuCaoFighting/DVS-GraspingDataSet). |
