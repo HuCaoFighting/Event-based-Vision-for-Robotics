@@ -30,59 +30,17 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 | 2020 | A Large Scale Event-based Detection Dataset for Automotive | [arXiv](https://arxiv.org/abs/2001.08499) | [Code](https://github.com/prophesee-ai/prophesee-automotive-dataset-toolbox),[1Mpx Detection Dataset](https://www.prophesee.ai/2020/11/24/automotive-megapixel-event-based-dataset/) |
 | 2021 | DSEC: A Stereo Event Camera Dataset for Driving Scenarios | [IEEE Robotics and Automation Letters (RA-L)](https://doi.org/10.1109/LRA.2021.3068942) | [Dataset](http://rpg.ifi.uzh.ch/dsec.html), [Code](https://github.com/uzh-rpg/DSEC) , [Video](https://youtu.be/W4yW78y4F7A)|
 | 2020 | NeuroIV: Neuromorphic Vision Meets Intelligent Vehicle Towards Safe Driving With a New Database and Baseline Evaluations | [TITS](https://doi.org/10.1109/TITS.2020.3022921) | - |
-| - | PKU-DAVIS-SOD Dataset by National Engineering Research Center for Visual Technology | [Dataset](https://www.pkuml.org/research/pku-davis-sod-dataset.html) | - |
-| 2016 | [] | []() | []() |
-| 2016 | [] | []() | []() |
+| 2022 | PKU-DAVIS-SOD Dataset by National Engineering Research Center for Visual Technology | [Dataset](https://www.pkuml.org/research/pku-davis-sod-dataset.html) | - |
 
-
-
-
-
-- <a name="Cheng19cvprw"></a>Cheng, W., Luo, H., Yang, W., Yu, L., Chen, S., Li, W.,  
-*[DET: A High-resolution DVS Dataset for Lane Extraction](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Cheng_DET_A_High-Resolution_DVS_Dataset_for_Lane_Extraction_CVPRW_2019_paper.pdf),*  
-IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [Project page](https://spritea.github.io/DET/).
-- <a name="ncars_dataset"></a>[N-CARS Dataset](http://www.prophesee.ai/dataset-n-cars/): A large real-world event-based dataset for car classification.     [Sironi et al., CVPR 2018](#Sironi18cvpr).
-- <a name="Zhu18mvsec"></a>Zhu, A., Thakur, D., Ozaslan, T., Pfrommer, B., Kumar, V., Daniilidis, K.,  
-*[The Multi Vehicle Stereo Event Camera Dataset: An Event Camera Dataset for 3D Perception](https://doi.org/10.1109/LRA.2018.2800793),*  
-IEEE Robotics and Automation Letters (RA-L), 3(3):2032-2039, Feb. 2018. [PDF](https://arxiv.org/abs/1801.10202), [Dataset](https://daniilidis-group.github.io/mvsec/), [YouTube](https://youtu.be/9FaUvvzaHW8).
-- <a name="Binas17icmlw"></a>Binas, J., Neil, D., Liu, S.-C., Delbruck, T.,  
-*[DDD17: End-To-End DAVIS Driving Dataset](https://www.openreview.net/pdf?id=HkehpKVG-),*  
-Int. Conf. Machine Learning, Workshop on Machine Learning for Autonomous Vehicles, 2017. [Dataset](http://sensors.ini.uzh.ch/databases.html)
-- <a name="Hu20itsc"></a>Hu, Y., Binas, J., Neil, D., Liu, S.-C., Delbruck, T.,  
-*[DDD20 End-to-End Event Camera Driving Dataset: Fusing Frames and Events with Deep Learning for Improved Steering Prediction](https://arxiv.org/abs/2005.08605)*,  
-IEEE Intelligent Transportation Systems Conf. (ITSC), 2020. [Dataset](https://sites.google.com/view/davis-driving-dataset-2020/home), [More datasets](http://sensors.ini.uzh.ch/databases.html)
-- <a name="Klenk21iros"></a>Klenk S., Chui, J., Demmel, N., Cremers, D.,  
-*[TUM-VIE: The TUM Stereo Visual-Inertial Event Data Set](https://vision.in.tum.de/data/datasets/visual-inertial-event-dataset)*,  
-IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.
-- <a name="deTournemire20arxiv"></a>de Tournemire, P., Nitti, D., Perot, E., Migliore, D., Sironi, A.,  
-*[A Large Scale Event-based Detection Dataset for Automotive](https://arxiv.org/abs/2001.08499)*,  
-arXiv, 2020. [Code](https://github.com/prophesee-ai/prophesee-automotive-dataset-toolbox), [News](https://www.prophesee.ai/2020/01/24/prophesee-gen1-automotive-detection-dataset/)
-- <a name="1mpx_detection_dataset"></a> Perot, E., de Tournemire, P., Nitti, D., Masci, J., Sironi, A.,  [1Mpx Detection Dataset](https://www.prophesee.ai/2020/11/24/automotive-megapixel-event-based-dataset/): [Learning to Detect Objects with a 1 Megapixel Event Camera. NeurIPS 2020](#Perot20nips).
-- <a name="MGehrig21ral"></a>Gehrig, M., Aarents, W., Gehrig, D., Scaramuzza, D.,  
-*[DSEC: A Stereo Event Camera Dataset for Driving Scenarios](https://doi.org/10.1109/LRA.2021.3068942)*,  
-IEEE Robotics and Automation Letters (RA-L), 2021. [Dataset](http://rpg.ifi.uzh.ch/dsec.html), [PDF](http://rpg.ifi.uzh.ch/docs/RAL21_DSEC.pdf), [Code](https://github.com/uzh-rpg/DSEC), [Video](https://youtu.be/W4yW78y4F7A).
-- <a name="Chen20tits"></a>Chen, G., Wang, F., Li, W., Hong, L., Conradt, J., Chen, J., Zhang, Z., Lu, Y., Knoll, A., 
-*[NeuroIV: Neuromorphic Vision Meets Intelligent Vehicle Towards Safe Driving With a New Database and Baseline Evaluations](https://doi.org/10.1109/TITS.2020.3022921)*,  
-IEEE Trans. Intelligent Transportation Systems (TITS), 2020.
-- <a name="PKU-DAVIS-SOD Dataset"></a> PKU-DAVIS-SOD Dataset by National Engineering Research Center for Visual Technology, Peking University,
-[Dataset](https://www.pkuml.org/research/pku-davis-sod-dataset.html),
 
 #### Datasets about Robotic Grasping
-- <a name="E-Grasping"></a>Bin Li, Hu Cao*, Zhongnan Qu, Yingbai Hu, Zhenke Wang, Zichen Liang,  
-*[Event-Based Robotic Grasping Detection With Neuromorphic Vision Sensor and Event-Grasping Dataset](https://www.frontiersin.org/articles/10.3389/fnbot.2020.00051/full)*,  
-Frontiers in Neurorobotics, 2021. [Dataset](https://github.com/HuCaoFighting/DVS-GraspingDataSet).
-- <a name="NeuroGrasp"></a>Hu Cao , Guang Chen , Zhijun Li , Yingbai Hu ,  Alois Knoll,  
-*[NeuroGrasp: Multimodal Neural Network With Euler Region Regression for Neuromorphic Vision-Based Grasp Pose Estimation](https://ieeexplore.ieee.org/abstract/document/9787342)*,  
- IEEE Transactions on Instrumentation and Measurement (TIM), 2021. [Dataset](https://github.com/HuCaoFighting/DVS-GraspingDataSet).
 
 | Year | Paper | Publication | Code/Webpage |
 |------|-------|-------------|--------------|
 | 2021 | Event-Based Robotic Grasping Detection With Neuromorphic Vision Sensor and Event-Grasping Dataset | [Frontiers in Neurorobotics](https://www.frontiersin.org/articles/10.3389/fnbot.2020.00051/full) | [Dataset](https://github.com/HuCaoFighting/DVS-GraspingDataSet) |
 | 2019 | NeuroGrasp: Multimodal Neural Network With Euler Region Regression for Neuromorphic Vision-Based Grasp Pose Estimation | [IEEE Transactions on Instrumentation and Measurement (TIM)](https://ieeexplore.ieee.org/abstract/document/9787342) | [Dataset](https://github.com/HuCaoFighting/DVS-GraspingDataSet) |
-
-
-
-
+| 2016 | [] | []() | []() |
+| 2016 | [] | []() | []() |
 
 
 
