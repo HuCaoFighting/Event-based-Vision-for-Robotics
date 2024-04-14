@@ -39,12 +39,60 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |------|-------|-------------|--------------|
 | 2021 | Event-Based Robotic Grasping Detection With Neuromorphic Vision Sensor and Event-Grasping Dataset | [Frontiers in Neurorobotics](https://www.frontiersin.org/articles/10.3389/fnbot.2020.00051/full) | [Dataset](https://github.com/HuCaoFighting/DVS-GraspingDataSet) |
 | 2019 | NeuroGrasp: Multimodal Neural Network With Euler Region Regression for Neuromorphic Vision-Based Grasp Pose Estimation | [IEEE Transactions on Instrumentation and Measurement (TIM)](https://ieeexplore.ieee.org/abstract/document/9787342) | [Dataset](https://github.com/HuCaoFighting/DVS-GraspingDataSet) |
-| 2016 | [] | []() | []() |
-| 2016 | [] | []() | []() |
+| 2016 |  |  |  |
+
+
+
+### Papers about Object Detection in Autonomous Driving
+| Year | Paper | Publication | Code/Webpage |
+|------|-------|-------------|--------------|
+| 2019 | Multi-Cue Event Information Fusion for Pedestrian Detection With Neuromorphic Vision Sensors | [Front. Neurorobot](https://doi.org/10.3389/fnbot.2019.00010) | - |
+| 2019 | [Mixed Frame-/Event-Driven Fast Pedestrian Detection | [ICRA](https://doi.org/10.1109/ICRA.2019.8793924) | - |
+| 2020 | Learning to Detect Objects with a 1 Megapixel Event Camera  | [NeurIPS](https://papers.nips.cc/paper/2020/file/c213877427b46fa96cff6c39e837ccee-Paper.pdf) |  |
+| 2021 | N-ImageNet: Towards Robust, Fine-Grained Object Recognition with Event Cameras | [ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_N-ImageNet_Towards_Robust_Fine-Grained_Object_Recognition_With_Event_Cameras_ICCV_2021_paper.pdf) | [Suppl. Mat.](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Kim_N-ImageNet_Towards_Robust_ICCV_2021_supplemental.pdf), [Github Page](https://github.com/82magnolia/n_imagenet), [N-ImageNet Dataset](https://www.dropbox.com/sh/47we7z2gff5barh/AADU4GyWnzLFzMzBDjLP00baa?dl=0). |
+| 2021 | Fusion-based Feature Attention Gate Component for Vehicle Detection based on Event Camera | [IEEE Sensors Journal](https://ieeexplore.ieee.org/abstract/document/9546775) |  |
+| 2022 | Fusing Asynchronous Event and Synchronization Frame Data with Multi-layer Feature Attention Guided Filtering | [Research Square](https://doi.org/10.21203/rs.3.rs-1770323/v1) |  |
+| 2022 | Fusing Event-based and RGB camera for Robust Object Detection in Adverse Conditions | [ICRA](https://ieeexplore.ieee.org/document/9812059) |  |
+| 2016 | Retinomorphic Object Detection in Asynchronous Visual Streams | [Proceedings of the AAAI Conference on Artificial Intelligence](https://www.aaai.org/AAAI22Papers/AAAI-1396.LiJ.pdf) |  |
+| 2022 | LDNet: End-to-End Lane Marking Detection Approach Using a Dynamic Vision Sensor | [TITS](https://ieeexplore.ieee.org/document/9518365) |  |
+| 2022 | Asynchronous Spatio-Temporal Memory Network for Continuous Event-Based Object Detection | [IIEEE Transactions on Image Processing](https://ieeexplore.ieee.org/document/9749022) |  |
+| 2023 | GET: Group Event Transformer for Event-Based Vision | [ICCV](https://arxiv.org/abs/2310.02642) | [Code](https://github.com/Peterande/GET-Group-Event-Transformer) |
+| 2023 | Joint Intensity and Event Framework for Vehicle Detection in Degraded Conditions | [ICTIS](https://ieeexplore.ieee.org/abstract/document/10243687) |  |
+| 2022 | Traffic Sign Detection With Event Cameras and DCNN | [SPA](https://ieeexplore.ieee.org/abstract/document/9927864) |  |
+| 2016 | RGB-Event Fusion for Moving Object Detection in Autonomous Driving | [ICRA](https://ieeexplore.ieee.org/abstract/document/10161563) | [Code](https://github.com/ZZY-Zhou/RENet) |
+| 2016 | Recurrent Vision Transformers for Object Detection with Event Cameras | [CVPR](https://ieeexplore.ieee.org/document/10204090) | [Code](https://github.com/uzh-rpg/RVT),  [YouTube](https://www.youtube.com/watch?v=xZ-pNwHxHgY). [Gen 1 Dataset] |
+| 2016 |  |  |  |
+
+
+### Papers about Semantic Segmentation in Autonomous Driving
+| Year | Paper | Publication | Code/Webpage |
+|------|-------|-------------|--------------|
+| 2019 | EV-SegNet: Semantic Segmentation for Event-based Cameras | [CVPRW](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Alonso_EV-SegNet_Semantic_Segmentation_for_Event-Based_Cameras_CVPRW_2019_paper.pdf) | [PDF](https://arxiv.org/pdf/1811.12039.pdf). [Project page](https://github.com/Shathe/Ev-SegNet). [Video pitch](https://youtu.be/AuXN7y3bMqo) |
+| 2021 | ISSAFE: Improving Semantic Segmentation in Accidents by Fusing Event-based Data | [IROS](https://ieeexplore.ieee.org/document/9636109) |  |
+| 2022 | ESS: Learning Event-based Semantic Segmentation from Still Images | [ECCV](https://https://arxiv.org/abs/2203.10016) | [Code](https://github.com/uzh-rpg/ess) |
+| 2023 | Event-Based Semantic Segmentation With Posterior Attention | [IEEE TRANSACTIONS ON IMAGE PROCESSING](https://ieeexplore.ieee.org/document/10058930) | [Code](https://github.com/zexiJia/EvSegFormer) |
+| 2022 | Exploring Event-driven Dynamic Context for Accident Scene Segmentation | [IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS](https://arxiv.org/abs/2112.05006) | [Code](https://github.com/jamycheung/ISSAFE) |
+| 2023 | CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation With Transformers | [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/abstract/document/10231003) | [Code](https://github.com/huaaaliu/RGBX_Semantic_Segmentation?utm_source=catalyzex.com) |
+| 2021 | Moving Object Detection for Event-based vision using Graph Spectral Clustering | [ICCVW](https://ieeexplore.ieee.org/document/9607843) | [Code](https://github.com/mondalanindya/ICCVW2021_GSCEventMOD) |
 
 
 
 ### Papers about Autonomous Driving
+| Year | Paper | Publication | Code/Webpage |
+|------|-------|-------------|--------------|
+| 2020 | Learning Monocular Dense Depth from Events  | [IEEE Int. Conf. on 3D Vision (3DV)](https://arxiv.org/pdf/2010.08350.pdf) | [PDF](http://rpg.ifi.uzh.ch/docs/3DV20_Hidalgo.pdf), [YouTube](https://youtu.be/Ne1KyyXd3_A), [Code](https://github.com/uzh-rpg/rpg_e2depth), [Project Page](http://rpg.ifi.uzh.ch/e2depth). |
+| 2021 | Combining Events and Frames Using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction | [IEEE Robotics and Automation Letters (RA-L)(https://arxiv.org/pdf/2010.08350.pdf)] | [PDF](http://rpg.ifi.uzh.ch/docs/RAL21_Gehrig.pdf), [Code](http://rpg.ifi.uzh.ch/rpg_ramnet), [Project Page](http://rpg.ifi.uzh.ch/RAMNet.html). |
+| 2019 | Slasher: Stadium racer car for event camera end-to-end learning autonomous driving experiments | [AICAS](https://ieeexplore.ieee.org/document/8771520) | [Code](https://github.com/AutoRally/), [Project page](https://sites.google.com/view/slasher-robot-car/home). |
+| 2021 | EvDistill: Asynchronous Events To End-Task Learning via Bidirectional Reconstruction-Guided Cross-Modal Knowledge Distillation | [CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_EvDistill_Asynchronous_Events_To_End-Task_Learning_via_Bidirectional_Reconstruction-Guided_Cross-Modal_CVPR_2021_paper.pdf) | [Code](https://github.com/addisonwang2013/evdistill). |
+| 2019 | Live Demonstration: Unsupervised Event-Based Learning of Optical Flow, Depth and Egomotion | [CVPRW](https://ieeexplore.ieee.org/document/9025423) | [Project page](https://inivation.com/dvs/)  |
+| 2020 | EDDD: Event-based drowsiness driving detection through facial motion analysis with neuromorphic vision sensor | [IEEE Sensors Journal](https://doi.org/10.1109/JSEN.2020.2973049) |  |
+| 2018 | Event-based Vision meets Deep Learning on Steering Prediction for Self-driving Cars | [CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Maqueda_Event-Based_Vision_Meets_CVPR_2018_paper.pdf) | [PDF](http://rpg.ifi.uzh.ch/docs/CVPR18_Maqueda.pdf), [Poster](http://rpg.ifi.uzh.ch/docs/CVPR18_Maqueda_poster.pdf),  [YouTube](https://youtu.be/_r_bsjkJTHA). |
+| 2020 | Learning to Exploit Multiple Vision Modalities by Using Grafted Networks | [ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610086.pdf) |  |
+| 2020 | NeuroIV: Neuromorphic Vision Meets Intelligent Vehicle Towards Safe Driving With a New Database and Baseline Evaluations | [TITS](https://doi.org/10.1109/TITS.2020.3022921) |  |
+| 2019 | Event-Based Vision Enhanced: A Joint Detection Framework in Autonomous Driving | [ICME](https://doi.org/10.1109/ICME.2019.00242) | - |
+| 2016 |  |  |  |
+| 2016 |  |  |  |
+
 - <a name="Hidalgo20threedv"></a>Hidalgo-Carrió J., Gehrig D., Scaramuzza, D.,  
 *[Learning Monocular Dense Depth from Events](https://arxiv.org/pdf/2010.08350.pdf)*,  
 IEEE Int. Conf. on 3D Vision (3DV), 2020. [PDF](http://rpg.ifi.uzh.ch/docs/3DV20_Hidalgo.pdf), [YouTube](https://youtu.be/Ne1KyyXd3_A), [Code](https://github.com/uzh-rpg/rpg_e2depth), [Project Page](http://rpg.ifi.uzh.ch/e2depth).
