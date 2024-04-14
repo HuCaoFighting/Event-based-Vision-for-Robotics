@@ -15,6 +15,8 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2020.
 - <a name="Chen20msp"></a>Chen, G., Cao, H., Conradt, J., Tang, H., Rohrbein, F., Knoll, A.,  
 **[Event-Based Neuromorphic Vision for Autonomous Driving: A Paradigm Shift for Bio-Inspired Visual Sensing and Perception](https://doi.org/10.1109/MSP.2020.2985815)**,  
 IEEE Signal Processing Magazine, 37(4):34-49, 2020.
+
+
 | Year | Paper | Publication | Code/Webpage |
 |------|-------|-------------|--------------|
 | 2020 |[Event-based Vision: A Survey]|[TPAMI](http://rpg.ifi.uzh.ch/docs/EventVisionSurvey.pdf)| - |
