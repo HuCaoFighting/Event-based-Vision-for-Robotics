@@ -62,7 +62,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 | 2023 | Joint Intensity and Event Framework for Vehicle Detection in Degraded Conditions | [ICTIS](https://ieeexplore.ieee.org/abstract/document/10243687) |  |
 | 2023 | RGB-Event Fusion for Moving Object Detection in Autonomous Driving | [ICRA](https://ieeexplore.ieee.org/abstract/document/10161563) | [Code](https://github.com/ZZY-Zhou/RENet) |
 | 2023 | Recurrent Vision Transformers for Object Detection with Event Cameras | [CVPR](https://ieeexplore.ieee.org/document/10204090) | [Code](https://github.com/uzh-rpg/RVT),  [YouTube](https://www.youtube.com/watch?v=xZ-pNwHxHgY). [Gen 1 Dataset] |
-
+| 2023 | SODFormer: Streaming Object Detection with Transformer Using Events and Frames | [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://arxiv.org/abs/2308.04047) | [code](https://github.com/dianzl/SODFormer) |
 
 
 ### Papers about Semantic Segmentation in Autonomous Driving
@@ -75,7 +75,6 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 | 2022 | Exploring Event-driven Dynamic Context for Accident Scene Segmentation | [IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS](https://arxiv.org/abs/2112.05006) | [Code](https://github.com/jamycheung/ISSAFE) |
 | 2023 | Event-Based Semantic Segmentation With Posterior Attention | [IEEE TRANSACTIONS ON IMAGE PROCESSING](https://ieeexplore.ieee.org/document/10058930) | [Code](https://github.com/zexiJia/EvSegFormer) |
 | 2023 | CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation With Transformers | [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/abstract/document/10231003) | [Code](https://github.com/huaaaliu/RGBX_Semantic_Segmentation?utm_source=catalyzex.com) |
-
 
 
 
@@ -92,8 +91,8 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 | 2020 | NeuroIV: Neuromorphic Vision Meets Intelligent Vehicle Towards Safe Driving With a New Database and Baseline Evaluations | [TITS](https://doi.org/10.1109/TITS.2020.3022921) |  |
 | 2021 | Combining Events and Frames Using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction | [IEEE Robotics and Automation Letters (RA-L)(https://arxiv.org/pdf/2010.08350.pdf)] | [PDF](http://rpg.ifi.uzh.ch/docs/RAL21_Gehrig.pdf), [Code](http://rpg.ifi.uzh.ch/rpg_ramnet), [Project Page](http://rpg.ifi.uzh.ch/RAMNet.html). |
 | 2021 | EvDistill: Asynchronous Events To End-Task Learning via Bidirectional Reconstruction-Guided Cross-Modal Knowledge Distillation | [CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_EvDistill_Asynchronous_Events_To_End-Task_Learning_via_Bidirectional_Reconstruction-Guided_Cross-Modal_CVPR_2021_paper.pdf) | [Code](https://github.com/addisonwang2013/evdistill). |
-
-
+| 2022 | Event-Based Fusion for Motion Deblurring with Cross-modal Attention | [ECCV](https://doi.org/10.48550/arXiv.2112.00167) | [code](https://github.com/AHupuJR/EFNet) |
+| 2023 | Multi-Modal Fusion for Sensorimotor Coordination in Steering Angle Prediction | [Engineering Applications of Artificial Intelligence](https://arxiv.org/abs/2202.05500)) | [code](https://github.com/azamshoaib/drfuser) |
 
 
 
@@ -106,12 +105,10 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 
 
 
-
   
 ### arXiv papers
-- **[DRFuser]** Multi-Modal Fusion for Sensorimotor Coordination in Steering Angle Prediction [[paper](https://arxiv.org/abs/2202.05500)] [[code](https://github.com/azamshoaib/drfuser)]
--  **[EFNet]** Event-Based Fusion for Motion Deblurring with Cross-modal Attention [[paper](https://doi.org/10.48550/arXiv.2112.00167)] [[code](https://github.com/AHupuJR/EFNet)]
--  EvPlug: Learn a Plug-and-Play Module for Event and Image Fusion [[paper](https://doi.org/10.48550/arXiv.2312.16933)]
--  Enhancing Traffic Object Detection in Variable Illumination with RGB-Event Fusion [[paper](https://doi.org/10.48550/arXiv.2311.00436)]
--  SODFormer: Streaming Object Detection with Transformer Using Events and Frames [[paper](https://arxiv.org/abs/2308.04047)] [[code](https://github.com/dianzl/SODFormer)]
--  Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks  [[paper](https://arxiv.org/abs/2302.08890)]
+| Year | Paper | Publication | 
+|------|-------|-------------|
+| 2023 | EvPlug: Learn a Plug-and-Play Module for Event and Image Fusion | [paper](https://doi.org/10.48550/arXiv.2312.16933) |  
+| 2023 | Enhancing Traffic Object Detection in Variable Illumination with RGB-Event Fusion | [paper](https://doi.org/10.48550/arXiv.2311.00436) | 
+| 2023 | Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks | [paper](https://arxiv.org/abs/2302.08890) |  
