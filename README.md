@@ -74,7 +74,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 | 2022 | Exploring Event-driven Dynamic Context for Accident Scene Segmentation | [IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS](https://arxiv.org/abs/2112.05006) | [Code](https://github.com/jamycheung/ISSAFE) |
 | 2023 | Event-Based Semantic Segmentation With Posterior Attention | [IEEE TRANSACTIONS ON IMAGE PROCESSING](https://ieeexplore.ieee.org/document/10058930) | [Code](https://github.com/zexiJia/EvSegFormer) |
 | 2023 | CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation With Transformers | [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/abstract/document/10231003) | [Code](https://github.com/huaaaliu/RGBX_Semantic_Segmentation?utm_source=catalyzex.com) |
-| 2024 | EISNet: A Multi-Modal Fusion Network for Semantic Segmentation with Events and Images | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/document/10477577) | - |
+| 2024 | EISNet: A Multi-Modal Fusion Network for Semantic Segmentation with Events and Images | [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/document/10477577) | [Code](https://github.com/bochenxie/EISNet) |
 
 
 
