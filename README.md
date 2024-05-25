@@ -104,8 +104,10 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 | 2021 | NeuroGrasp: Multimodal Neural Network With Euler Region Regression for Neuromorphic Vision-Based Grasp Pose Estimation | [IEEE Transactions on Instrumentation and Measurement (TIM)](https://ieeexplore.ieee.org/abstract/document/9787342) | [Dataset](https://github.com/HuCaoFighting/DVS-GraspingDataSet). |
 
 
-
-
+### Papers about Other tasks
+| Year | Paper | Publication | Code/Webpage |
+|------|-------|-------------|--------------|
+| 2023 | Non-Coaxial Event-guided Motion Deblurring with Spatial Alignment | [ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Cho_Non-Coaxial_Event-Guided_Motion_Deblurring_with_Spatial_Alignment_ICCV_2023_paper.pdf) |
   
 ### arXiv papers
 | Year | Paper | Publication | 
@@ -115,3 +117,4 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 | 2023 | Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks | [paper](https://arxiv.org/abs/2302.08890) |  
 | 2024 | Scene Adaptive Sparse Transformer for Event-based Object Detection | [paper](https://arxiv.org/abs/2404.01882), [code](https://github.com/Peterande/SAST/tree/master) |
 | 2024 | Event-assisted Low-Light Video Object Segmentation | [paper](https://arxiv.org/abs/2404.01945) |  
+| 2024 | Bilateral Event Mining and Complementary for Event Stream Super-Resolution | [paper](https://arxiv.org/abs/2405.10037) |
