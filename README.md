@@ -114,7 +114,8 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |------|-------|-------------|
 | 2023 | EvPlug: Learn a Plug-and-Play Module for Event and Image Fusion | [paper](https://doi.org/10.48550/arXiv.2312.16933) |  
 | 2023 | Enhancing Traffic Object Detection in Variable Illumination with RGB-Event Fusion | [paper](https://doi.org/10.48550/arXiv.2311.00436) | 
-| 2023 | Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks | [paper](https://arxiv.org/abs/2302.08890) |  
+| 2023 | Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks | [paper](https://arxiv.org/abs/2302.08890) | 
+| 2023 | MetaBEV: Solving Sensor Failures for BEV Detection and Map Segmentation | [paper](https://arxiv.org/abs/2304.09801) | [Code](https://github.com/ChongjianGE/MetaBEV) |[Project page](https://chongjiange.github.io/metabev.html). |
 | 2024 | Scene Adaptive Sparse Transformer for Event-based Object Detection | [paper](https://arxiv.org/abs/2404.01882), [code](https://github.com/Peterande/SAST/tree/master) |
 | 2024 | Event-assisted Low-Light Video Object Segmentation | [paper](https://arxiv.org/abs/2404.01945) |  
 | 2024 | Bilateral Event Mining and Complementary for Event Stream Super-Resolution | [paper](https://arxiv.org/abs/2405.10037) |
