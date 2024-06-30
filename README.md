@@ -108,6 +108,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 | Year | Paper | Publication | Code/Webpage |
 |------|-------|-------------|--------------|
 | 2023 | Non-Coaxial Event-guided Motion Deblurring with Spatial Alignment | [ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Cho_Non-Coaxial_Event-Guided_Motion_Deblurring_with_Spatial_Alignment_ICCV_2023_paper.pdf) |
+| 2023 | RPEFlow: Multimodal Fusion of RGB-PointCloud-Event for Joint Optical Flow and Scene Flow Estimation | [ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Wan_RPEFlow_Multimodal_Fusion_of_RGB-PointCloud-Event_for_Joint_Optical_Flow_and_ICCV_2023_paper.pdf) | [Project page](https://npucvr.github.io/RPEFlow/)  | 
   
 ### arXiv papers
 | Year | Paper | Publication | 
