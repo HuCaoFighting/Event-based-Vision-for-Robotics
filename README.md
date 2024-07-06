@@ -109,7 +109,9 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |------|-------|-------------|--------------|
 | 2023 | Non-Coaxial Event-guided Motion Deblurring with Spatial Alignment | [ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Cho_Non-Coaxial_Event-Guided_Motion_Deblurring_with_Spatial_Alignment_ICCV_2023_paper.pdf) |
 | 2023 | RPEFlow: Multimodal Fusion of RGB-PointCloud-Event for Joint Optical Flow and Scene Flow Estimation | [ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Wan_RPEFlow_Multimodal_Fusion_of_RGB-PointCloud-Event_for_Joint_Optical_Flow_and_ICCV_2023_paper.pdf) | [Project page](https://npucvr.github.io/RPEFlow/)  | 
-  
+
+
+
 ### arXiv papers
 | Year | Paper | Publication | 
 |------|-------|-------------|
@@ -120,3 +122,4 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 | 2024 | Scene Adaptive Sparse Transformer for Event-based Object Detection | [paper](https://arxiv.org/abs/2404.01882), [code](https://github.com/Peterande/SAST/tree/master) |
 | 2024 | Event-assisted Low-Light Video Object Segmentation | [paper](https://arxiv.org/abs/2404.01945) |  
 | 2024 | Bilateral Event Mining and Complementary for Event Stream Super-Resolution | [paper](https://arxiv.org/abs/2405.10037) |
+| 2024 | Retain, Blend, and Exchange: A Quality-aware Spatial-Stereo Fusion Approach for Event Stream Recognition | [paper](https://arxiv.org/abs/2406.18845), [Code](, [Code](https://github.com/ChongjianGE/MetaBEV)) |
