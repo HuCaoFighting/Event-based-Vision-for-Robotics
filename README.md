@@ -122,4 +122,4 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 | 2024 | Scene Adaptive Sparse Transformer for Event-based Object Detection | [paper](https://arxiv.org/abs/2404.01882), [code](https://github.com/Peterande/SAST/tree/master) |
 | 2024 | Event-assisted Low-Light Video Object Segmentation | [paper](https://arxiv.org/abs/2404.01945) |  
 | 2024 | Bilateral Event Mining and Complementary for Event Stream Super-Resolution | [paper](https://arxiv.org/abs/2405.10037) |
-| 2024 | Retain, Blend, and Exchange: A Quality-aware Spatial-Stereo Fusion Approach for Event Stream Recognition | [paper](https://arxiv.org/abs/2406.18845), [Code](https://github.com/ChongjianGE/MetaBEV)) |
+| 2024 | Retain, Blend, and Exchange: A Quality-aware Spatial-Stereo Fusion Approach for Event Stream Recognition | [paper](https://arxiv.org/abs/2406.18845), [Code](https://github.com/ChongjianGE/MetaBEV) |
